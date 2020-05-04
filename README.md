@@ -1,1 +1,1 @@
-# dataquest
+# dataquest guided projects
